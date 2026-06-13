@@ -1,0 +1,20 @@
+.theme-dark, .theme-light, [class^="appInner_"], [class^="bg_"], [class^="sidebar_"], [class^="chat_"], [class^="container_"], [class^="panels_"], [class^="scroller_"] {
+    background: #000000 !important;
+    background-color: #000000 !important;
+}
+
+[class^="text_"], [class^="header_"], [class^="name_"], [class^="channelName_"], span, div {
+    color: #ffffff !important;
+}
+
+[class^="channelTextArea_"] {
+    background: #000000 !important;
+}
+
+[class^="avatar_"] {
+    background: transparent !important;
+}
+
+.activityPanel__5e434, .page__5e434, .form_f75fb0, .inner__74017, .scrollableContainer__74017 {
+    background-color: #000000 !important;
+}
