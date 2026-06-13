@@ -4,7 +4,7 @@
 }
 
 [class^="text_"], [class^="header_"], [class^="name_"], [class^="channelName_"], span, div {
-    color: #ffffff !important;
+    color: #e1e1e1 !important;
 }
 
 [class^="channelTextArea_"] {
